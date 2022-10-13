@@ -1,5 +1,5 @@
 
-## 💜 Olá, pessoas podem me chamar de <strong>Tha</strong>
+## 💗 Olá, pessoas podem me chamar de <strong>Tha</strong>
 <img align="right" width="200" src="https://media.giphy.com/media/kJqOgJcify2Lb4N3gP/giphy.gif" />
 
 > Aprendendo mais sobre backend
@@ -26,11 +26,11 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/thataaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thataaz&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thataaz&theme=panda&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/thataaz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thataaz&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thataaz&show_icons=true&theme=panda&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
