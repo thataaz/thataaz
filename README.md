@@ -1,6 +1,6 @@
 
 ## 💗 Olá, pessoas podem me chamar de <strong>Tha</strong>
-<img align="right" width="200" src="https://media.giphy.com/media/kJqOgJcify2Lb4N3gP/giphy.gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/d9mkbc1QkvBnHthaQp/giphy.gif" />
 
 > Aprendendo mais sobre backend
 
