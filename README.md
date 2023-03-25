@@ -6,7 +6,7 @@
 
 🎓&nbsp; Estudo Engenharia de informação e Ciência da computação na UFABC
 
-👩🏽‍💻 &nbsp;Hoje sou Engenheira de Software do produto de Home Equity na Creditas.
+👩🏽‍💻 &nbsp;Hoje sou Engenheira de Software
 
 📚 Meus estudos se concentram em Frontend, Backend e quem sabe algumas coisas a mais.
 
